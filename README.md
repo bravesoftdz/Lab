@@ -1,5 +1,5 @@
 # Lab
-Another Labirint game for DOS I've made ~mid 90s.
+Another Labirint game for DOS I've made ~mid 90s. Still runs under DOS-Box.
 
 Goal of the game is to explore as large space as possible.
 Gold is gathered to make explosions :)
